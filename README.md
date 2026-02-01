@@ -20,7 +20,7 @@ Instead of tracking national averages, I analyze the 70-city price distribution.
 
 ### 3. Paradigm Shift & Structural Transition
 I track the **Paradigm Shift Index (PSI)**—a composite of high-tech vs. legacy manufacturing FAI—to verify if "New Engines" can truly offset the structural drag from the property sector.
-![Paradigm Shift Index](output/figures/paradigm_shift_index.png)
+![Paradigm Shift Index](/output/figures/paradigm_shift.png)
 
 ### 4. Export Destination Change
 I examine the **Export Destination Share** of Chinese leading trading partners to identify the shifting patterns of its export activities behind its trillion-dollar trade surplus.
